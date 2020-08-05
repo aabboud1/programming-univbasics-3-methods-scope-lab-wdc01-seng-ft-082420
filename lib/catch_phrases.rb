@@ -5,7 +5,7 @@ def mario
 end
 
 def toadstool
-  mario
+  mario(status)
 end
 
 def all_phrases
