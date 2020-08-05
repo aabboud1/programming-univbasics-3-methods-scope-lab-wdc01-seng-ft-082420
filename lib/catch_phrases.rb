@@ -4,5 +4,10 @@ def mario
 end
 
 def toadstool
-  puts status
+  puts mario(status)
+end
+
+def all_phrases
+  mario
+  toadstool
 end
