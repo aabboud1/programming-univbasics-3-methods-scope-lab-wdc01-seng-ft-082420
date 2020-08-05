@@ -1,4 +1,4 @@
-status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
@@ -7,7 +7,8 @@ def mario
 end
 
 def toadstool
-  status
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts
 end
 
 def all_phrases
