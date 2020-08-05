@@ -5,10 +5,9 @@ def mario
 end
 
 def toadstool
-  puts mario
+  mario
 end
 
 def all_phrases
-  mario
-  toadstool
+ 
 end
